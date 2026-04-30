@@ -14,8 +14,8 @@
 			GINZA
 		(ACCOMODATION) XXXX
 ---------------------------------------------------------------------------------------------
-14 Oct	xx:xx TOKYO Shinkansen
-		xx:xx HIROSHIMA
+14 Oct	12:33 TOKYO Shinkansen
+		01:50 HIROSHIMA
 		(ACCOMODATION) HIROSHIMA (TBD)
 ---------------------------------------------------------------------------------------------
 15 Oct	xx:xx HIROSHIMA Shinkansen
@@ -27,3 +27,8 @@
 		xx:xx TOKYO
 		 Kyoto Tour
 		(ACCOMODATION) XXXX
+    Apr 10:55 Hino
+	    11:55 lesson2
+		12:30 lunchon
+		13:30 lesson3
+		16:00 home out
